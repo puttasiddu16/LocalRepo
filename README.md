@@ -1,1 +1,1 @@
-# This is my first git oroject!
+# This is my first git project!
